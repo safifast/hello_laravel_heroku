@@ -50,7 +50,7 @@ return [
             'port' => env('DB_PORT', ''),
             'database' => env('DB_DATABASE', 'forge'),
             'username' => env('DB_USERNAME', 'b495cdbeca14c5'),
-            'password' => env('DB_PASSWORD', '80ea2f7291ee827'),
+            'password' => env('DB_PASSWORD', '693d683d'),
             'unix_socket' => env('DB_SOCKET', ''),
             'charset' => 'utf8mb4',
             'collation' => 'utf8mb4_unicode_ci',
